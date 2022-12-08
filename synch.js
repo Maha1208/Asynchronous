@@ -6,3 +6,4 @@ function makeGreeting(name1)
   const name1 = 'Maha';
   const greeting = makeGreeting(name1);
   console.log(greeting);
+//Hello, my name is Maha
